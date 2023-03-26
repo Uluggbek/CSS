@@ -1,7 +1,19 @@
 div.static {
   text-decoration-skip: center;
   position: absolute;
-  border: 4px solid blueviolet;
+  border: 4px solid blue;
   /* left: 30px; */
   font-size: 24px;
+}
+div.uuu {
+  position: fixed;
+  max-width: 300px;
+
+  left: 66%;
+  bottom: 50%;
+  border: 5px solid blue;
+  font-size: 18px;
+}
+body {
+  background-color: aquamarine;
 }
