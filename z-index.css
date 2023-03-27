@@ -1,0 +1,11 @@
+h2 {
+  color: black;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+img {
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  z-index: -2;
+}
