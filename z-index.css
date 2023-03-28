@@ -10,7 +10,14 @@ img {
   z-index: -2;
 }
 h1 {
-  text-shadow: 2px 2px 4px #000000;
+  text-shadow: 0 0 4px #000000, 0 0 25px blue, 0 0 5px darkblue;
   text-align: center;
   color: white;
+}
+h3 {
+  text-decoration: overline;
+  text-shadow: 0 0 3px #ff0000, 0 0 20px blue, 0 0 5px lightblue;
+  font-size: xx-large;
+  align-items: inherit;
+  text-align: center;
 }
